@@ -1,1 +1,1 @@
-# sbmios-test
+# sbmios test app
